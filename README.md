@@ -33,8 +33,8 @@ The project implements a basic physics engine through the following phases:
 ## 👥 Credits
 The project was developed by Group 7 - Class 167803 - Semester 2025.2[cite: 1]:
 *   **Students:**
-    *   Tran Diep Linh (Student ID: 202414634)[cite: 1]
     *   Nguyen Phuong Trang (Student ID: 202414668)[cite: 1]
+    *   Tran Diep Linh (Student ID: 202414634)[cite: 1]
 *   **Instructors:**
     *   Dang Quoc Viet[cite: 1]
     *   Do Thi Ngoc Diep[cite: 1]
